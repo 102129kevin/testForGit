@@ -14,4 +14,3 @@ mood = delight
 8
 9
 old branch didn't know what happen...
-mood = delight
