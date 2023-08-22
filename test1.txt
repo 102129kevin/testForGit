@@ -26,6 +26,4 @@ old branch didn't know twice.
 other branch test.
 16
 17
-18
-19
 other branch didn't know.
