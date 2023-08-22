@@ -19,10 +19,7 @@ old branch didn't know what happen...
 12
 hi,here old branch again.
 hi,here other branch.
-<<<<<<< HEAD
 13
 14
 15
-=======
 old branch didn't know twice.
->>>>>>> 0e587f51bcb5944c2c8fece5bb364af6b36b23d0
